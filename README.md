@@ -6,12 +6,12 @@ Microsoft Windows Tool for Flashing ☒CW01 using ☒IP01
 
 ### Flashing Steps: 
 [Video 0m-4m12s](https://youtu.be/zKqtNKpamCc)
-1. Download [xinaboxFlashTool.exe](https://github.com/xinabox/Satellite-Playground/releases/latest) file.
-1. Virus Check the `xinaboxFlashTool.exe` file
+1. Download [xinaboxFlashTool_[version].exe](https://github.com/xinabox/Satellite-Playground/releases/latest) file.
+1. Virus Check the `xinaboxFlashTool_[version].exe` file
 1. Connect **☒IP01** and **☒CW01** together
 1. Insert **☒IP01** and **☒CW01** into an available USB port
 1. Wait for eventual drivers to be installed, if driver installation fail, goto [USB Driver](#usb-driver)
-1. Execute the `xinaboxFlashTool` file
+1. Execute the `xinaboxFlashTool_[version]` file
 1. Choose Firmware. 
 1. Choose your COM port. If no COM port is available, goto [USB Driver](#usb-driver)
 1. Click `Flash`
